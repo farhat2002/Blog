@@ -1,6 +1,4 @@
-FR 21.08.2020 
-heute habe ich versucht das Programm ,das ich mit Herrn Buhl zusammen gemacht haben nochmal neu zu machen und gugecken , ob ich das alles gelernt habe.
-das hat super geklappt, und später habe ich versucht neue Blöcke dazu hinzufügen.
+Heute ist unsere erste Informatikstunde und uns wurden die verschiedenen Programme, mit die wir arbeiten können vorgestellt z.B. startlogo TNG , snap, applab und noch viele andere. danach habe ich  Projekte ehemaliger Schüler angeschaut um einen Überblick zu bekommen, wie man mit GitHub und anderen Programmen arbeitet, da ich ein ANfänger war und hatte berhaupt kein vorkenntnisse habe ich geschaut wa, was alles für Afänger mit keinen Vorkenntnisse gut ist und habe mich dann für StartLogo TNG 
 
 
 
